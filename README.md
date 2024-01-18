@@ -3,10 +3,8 @@
 
 #my website
 ================================================
-- 	my site consists of useful content about climate change latest news
--	where it show how world climate change affects the human today
--	it has links linked to different resources of referrers
-
+- 	my site show different recipes and how to make recipes
+- 	includes different methods and steps to make recipes
 #skills after a the end of project
 ===============================================
 
